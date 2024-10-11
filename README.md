@@ -30,7 +30,6 @@ PA2
 │   ├── requirements.txt          # List of required dependencies  
 │   ├── Makefile                  # Makefile for setting up environment and installing dependencies  
 ├── Files  
-│   ├── Report                    # Report  
 │   ├── Design Doc                # Design documentation  
 ├── Out  
 │   ├── Logs                      # Directory for storing log files  
